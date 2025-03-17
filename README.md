@@ -1,5 +1,8 @@
 MERN Chat App
 
+## Live Demo  
+[Click here to view the app](https://chatapplication-rb0c.onrender.com/)
+
 Overview
 
 This is a real-time chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The app supports user authentication, image uploads, secure password handling, and real-time messaging.
